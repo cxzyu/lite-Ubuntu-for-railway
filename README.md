@@ -1,3 +1,9 @@
+
+    MADE WITH AI FOR TEST
+         DON'T USE IT
+        
+
+
 # Railway · Ubuntu 24.04 轻量系统（带公网访问）
 
 在 Railway 上跑一个**最小化 Ubuntu 24.04 环境**，并且能从公网用浏览器直接进去敲命令。
